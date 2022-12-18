@@ -7,14 +7,20 @@ Usaremos elementos de la tabla periodica para el lanzamiento de versiones para p
 
 **Hidrogeno "H2" Second Release**
 
-**JAVA 1.19.X**
-![Captura de pantalla 2022-12-16 060403](https://user-images.githubusercontent.com/73773940/208200965-beb138b0-f128-40e1-a4bd-7bd3578998e3.png)
+**Helio "He" Stable Release**
 
-![Captura de pantalla 2022-12-16 043551](https://user-images.githubusercontent.com/73773940/208200977-2ccf1b9e-0596-4f1a-b41f-306a569dce98.png)
+**JAVA 1.19.X**
+![Captura de pantalla 2022-12-16 043551](https://user-images.githubusercontent.com/73773940/208288153-0373bc6e-7760-42e3-ae1e-aba8b34f9cb2.png)
+
+![Captura de pantalla 2022-12-16 060403](https://user-images.githubusercontent.com/73773940/208288165-acc56aa0-1c82-44b3-b5f2-fd0c6a7b07cd.png)
+
+
 
 **Bedrock 1.19.X**
-![Captura de pantalla 2022-12-15 235352](https://user-images.githubusercontent.com/73773940/208201109-276db4bd-f459-47ba-87a5-c8e1df59775a.png)
-![image](https://user-images.githubusercontent.com/73773940/208201247-9c994d96-efb5-4e37-90fb-b17422f6900e.png)
+![Captura de pantalla 2022-12-16 060403](https://user-images.githubusercontent.com/73773940/208288176-e7d05488-1691-4d34-931a-99659914c67a.png)
+
+![Captura de pantalla 2022-12-15 235437](https://user-images.githubusercontent.com/73773940/208288190-9aad56b0-5d43-4a4d-9547-11127848ecfd.png)
+
 
 
 
