@@ -17,7 +17,8 @@ Usaremos elementos de la tabla periodica para el lanzamiento de versiones para p
 
 
 **Bedrock 1.19.X**
-![Captura de pantalla 2022-12-16 060403](https://user-images.githubusercontent.com/73773940/208288176-e7d05488-1691-4d34-931a-99659914c67a.png)
+![Captura de pantalla 2022-12-15 235352](https://user-images.githubusercontent.com/73773940/208288235-46dea20d-6555-4732-a8d5-8e93698f8115.png)
+
 
 ![Captura de pantalla 2022-12-15 235437](https://user-images.githubusercontent.com/73773940/208288190-9aad56b0-5d43-4a4d-9547-11127848ecfd.png)
 
