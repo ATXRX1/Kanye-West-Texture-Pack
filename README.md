@@ -9,14 +9,16 @@ Usaremos elementos de la tabla periodica para el lanzamiento de versiones para p
 
 **Helio "He" Stable Release**
 
-**JAVA 1.19.X**
+**Lithium "Li" Stable Realease**
+
+**JAVA 1.20**
 ![Captura de pantalla 2022-12-16 043551](https://user-images.githubusercontent.com/73773940/208288153-0373bc6e-7760-42e3-ae1e-aba8b34f9cb2.png)
 
 ![Captura de pantalla 2022-12-16 060403](https://user-images.githubusercontent.com/73773940/208288165-acc56aa0-1c82-44b3-b5f2-fd0c6a7b07cd.png)
 
 
 
-**Bedrock 1.19.X**
+**Bedrock 1.20**
 ![Captura de pantalla 2022-12-15 235352](https://user-images.githubusercontent.com/73773940/208288235-46dea20d-6555-4732-a8d5-8e93698f8115.png)
 
 
